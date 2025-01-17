@@ -25,7 +25,7 @@ I hope you like the project, and please don’t hesitate to share any areas you 
 - Create a Firestore database in Firebase and set up tables according to the columns specified in the code.
 - Double-check the necessary extensions and, if needed, consult ChatGPT to identify and complete any missing components.
 
-## Contact
-If you have any questions, feel free to contact me:
+## Contact  
+If you have any questions, feel free to contact me:  
+[LinkedIn](https://www.linkedin.com/in/emre-beraat-samuk-a50b37250/)  
 
-[LinkedIn]([https://www.linkedin.com/in/kullanıcı-adı](https://www.linkedin.com/in/emre-beraat-samuk-a50b37250/))
